@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Aprendendo programação aos 25 anos!</h1>
+    return <h1>Pedro Augusto, larga de rolo!</h1>
 }
 
 export default Home;
